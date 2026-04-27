@@ -56,8 +56,9 @@ This project explores:
 ---
 
 ## Repository Structure
--lumina.js # Generated landing page logic
--README.md # Project documentation
+lumina.js # Generated landing page logic
+
+README.md # Project documentation
 
 ---
 

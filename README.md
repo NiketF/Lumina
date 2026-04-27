@@ -1,7 +1,7 @@
 # Lumina — AI-Generated Landing Page
 
 ## Overview
-Lumina is an AI-generated landing page built using prompt engineering as part of a competition hosted by Varun Mayya and Outlier.ai.
+Lumina is an AI-generated landing page built using prompt engineering as part of a competition hosted by Outlier.ai.
 
 The project focuses on leveraging Large Language Models (LLMs) to design and generate a complete frontend interface by structuring and refining prompts, rather than manually building the UI from scratch.
 
